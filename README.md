@@ -33,7 +33,7 @@
 
   <!-- ---------------------------------------------------------------- --> 
   
- ## 🚀 Follow and 📲 Connect with me on social media 
+ ## 🚀 Follow
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
 <p align="left">
 
