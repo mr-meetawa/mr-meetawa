@@ -16,20 +16,8 @@
    
 <!-- ---------------------------------------------------------------- --> 
 
-## About Me (Intro)
-   <p align="center">
-  <p align="left">
-   <a>
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
-
-   - 🔭 I’m currently working on My Skills.<br/>
-   - 🌱 I’m currently learning Full Stack Dev.<br/>
-   - 💬 Ask me about C, C++,OOPS,DSA,DBMS,OS,JavaScript,TypeScript,React JS<br/> 
-   - 😄 Pronouns: He/Him.<br/>
-   - 📫 How to reach me: Email address
-   </a>
-
-- Email Id : mrmeetawa@gmail.com <br/>
+## About Me
+Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/mrmeetawa)
 
   <!-- ---------------------------------------------------------------- --> 
   
@@ -68,8 +56,6 @@ Let's be friends and get connected: [![Github](https://img.shields.io/badge/Gith
  
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
    
