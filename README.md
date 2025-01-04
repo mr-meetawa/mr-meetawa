@@ -34,10 +34,7 @@
   <!-- ---------------------------------------------------------------- --> 
   
  ## 🚀 Follow
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
-<p align="left">
-
-[![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/mrmeetawa)
+Let's be friends and get connected: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/mrmeetawa)
 
    <!-- ---------------------------------------------------------------- -->
 
